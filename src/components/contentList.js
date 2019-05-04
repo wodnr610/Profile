@@ -38,7 +38,6 @@ class ContentList extends Component {
     const name = e.target.getAttribute('data-name');
     opened[name] = opened[name] === null ? true : !opened[name];
     this.setState({ opened });
-    console.log(e.target);
 
   }
 
