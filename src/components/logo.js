@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import styled from "styled-components";
 import {media} from "../style/media.js";
 import { colors } from "../style/theme.js";
-import Grid from '@material-ui/core/Grid';
 
 const LogoWrapper = styled.div`
   width: 170px;

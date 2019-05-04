@@ -16,7 +16,7 @@ body {
 
 @media (max-width: 37.5em) {
     body {
-      background-image: linear-gradient(to right,  rgb(192,227,221), white);
+      background-image: linear-gradient(to right,  rgb(192,227,221), #edfcf1);
     }
 }
 

@@ -5,6 +5,7 @@ import TopNav from "./topNav.js";
 import styled from "styled-components";
 import { media } from "../style/media.js";
 import Projects from "./projects.js";
+import SocialMedia from "./socialMedia.js";
 
 const Container = styled.div`
   padding-top: 50px;
@@ -40,6 +41,7 @@ class Layout extends Component {
         <TopNav scrollRefs={scrollRefs}/>
         <Container>
           <ProfileImage scrollRef={scrollRefs.aboutMe}/>
+          <SocialMedia />
           <Experience scrollRef={scrollRefs.experience}/>
           <Projects scrollRef={scrollRefs.projects}/>
         </Container>

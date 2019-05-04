@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import list from "../static/experienceList.js";
 import styled from "styled-components";
 import Collapse from "@material-ui/core/Collapse";
 import Logo from "./logo.js";
