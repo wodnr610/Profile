@@ -22,7 +22,7 @@ const list = [
     logo: require('./Hubdoc.png'),
     startDate: 'May 2018',
     endDate: 'August 2018',
-    role: 'Software Developer Inter'
+    role: 'Software Developer Intern'
   },
 
   {

@@ -31,12 +31,12 @@ const StyledOption = styled.span`
   margin-left: 60px;
   line-height: 65px;
   font-size: 1.3em;
-  -webkit-touch-callout: none;
-  -webkit-user-select: none;
-  -khtml-user-select: none;
-  -moz-user-select: none;
-  -ms-user-select: none;
-  user-select: none;
+  // -webkit-touch-callout: none;
+  // -webkit-user-select: none;
+  // -khtml-user-select: none;
+  // -moz-user-select: none;
+  // -ms-user-select: none;
+  // user-select: none;
   ${
     media.mobile`
     margin-left: 20px;
